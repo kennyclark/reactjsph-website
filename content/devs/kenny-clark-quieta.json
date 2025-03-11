@@ -1,0 +1,21 @@
+{
+  "avatar": "https://i.ibb.co/2YvMtM6Z/kny.jpg",
+  "name": "Kenny Clark M. Quieta",
+  "title": "Software Engineer",
+  "blurb": "'Sup! I'm Kenny, a developer who loves both coding and artistic expression. 💻🎨",
+  "skills": ["React", "Javascript", "Go", "Ruby on Rails", "PostgreSQL"],
+  "contacts": [
+    {
+      "type": "github",
+      "url": "https://github.com/kennyclark"
+    },
+    {
+      "type": "linkedin",
+      "url": "https://www.linkedin.com/in/kennyclarkquieta"
+    },
+    {
+      "type": "email",
+      "url": "mailto:contact@knydev.uk"
+    }
+  ]
+}
